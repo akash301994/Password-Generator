@@ -24,6 +24,10 @@
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 
+## Challenges
+
+* It was diffucult to visualize what I was requested to do. I understood the concept but was lost in the beginning. What helped me was psuedo coding and breaking down the function in which I needed to create in more palatable concepts. Knowing so little about coding still, my mind tries to over-complicate the objective by thinking in a more grandiose way. After acknowledging the inadequate thinking pattern it helped to break things down and research how to do things step by step. I used a mixture of course material, youtube, old github repos, and google to finally get it to work as well as understand what I was coding.
+
 ## WEBSITE LINK
 https://akash301994.github.io/Password-Generator/
 
