@@ -1,5 +1,18 @@
 // Assignment code here
+// making the function called generatePassword.
+//just making a console log so i can keep track. /
+function generatePassword() {
+  console.log("hey you click the buttong you fat fuk!");
 
+
+
+// 1. prompt the user for the password criteria
+   //-pass length 8-128
+   //-lowercase, uppercase, numbers, special characters
+// 2. validate inputs.
+
+  return "Generated Password appears here"
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
