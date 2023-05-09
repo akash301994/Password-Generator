@@ -17,8 +17,7 @@ function randomizer(text, numbers = 1) {
 };
 
 
-// making the function called generatePassword.
-//just making a console log so i can keep track. 
+// making the function called generatePassword. 
 function generatePassword() {
   console.log("hey you clicked the button");
   let includeChars = "";
